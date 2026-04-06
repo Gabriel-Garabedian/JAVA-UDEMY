@@ -1,4 +1,3 @@
-import java.util.Locale;
 import java.util.Scanner;
 
 // Ler 4 valores inteiros A, B, C e D. Imprimir a DIFERENCA do produto de A e B pelo produto de C e D.

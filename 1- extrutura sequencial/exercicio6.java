@@ -1,4 +1,3 @@
-import java.util.Locale;
 import java.util.Scanner;
 
 // Ler 3 valores inteiros e mostrar a soma dos quadrados dos 3 valores lidos.
