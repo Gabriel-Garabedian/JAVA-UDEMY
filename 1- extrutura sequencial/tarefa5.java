@@ -16,7 +16,10 @@ public class tarefa5 {
 
         double pagar = (numero_peca1 * valor_unitario1) + (numero_peca2 * valor_unitario2);
 
-        System.out.println("PECAS:");
+        System.out.println("PECAS 1 e 2:");
+        System.out.println("CODIGO: " + codigo_peca1);
+        System.out.println("CODIGO: " + codigo_peca2);
+
         System.out.printf("VALOR A PAGAR = %.2f%n", pagar);
 
         sc.close();
