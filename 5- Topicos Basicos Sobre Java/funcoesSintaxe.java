@@ -42,6 +42,9 @@ public class funcoesSintaxe {
 
     public static void showResult(int value) {
         System.out.println("Higher = " + value);
+        /*
+        Sempre quando vc for chamar uma função, vc tem que passar os dados de entrada necessários para aquela função, e a função vai processar esses dados e retornar um resultado, ou seja, uma saída.
+        */
 
     }
 }
