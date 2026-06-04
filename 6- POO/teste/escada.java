@@ -1,10 +1,14 @@
+package teste;
+
 import java.util.Locale;
 import java.util.Scanner;
 
-public class problemaSemOrientacaoObjetos {
+public class escada {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
+        
+
         /*
         Fazer um programa para medidas como dos lados de triângulos X e Y (supupoma medida
         válidas). Em 1995, mostrar valor das áreas dos dois triângulos e qual dos dos triângulos
@@ -46,4 +50,5 @@ public class problemaSemOrientacaoObjetos {
 
         sc.close();
     }
+
 }
